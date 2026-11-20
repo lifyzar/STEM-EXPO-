@@ -1,0 +1,8 @@
+{
+  "name": "STEM EXPO — Island navigation and Trigonometry",
+  "description": "Interactive nautical bearings, right-angled trigonometry (sin, cos, tan), Sine Rule, and Cosine Rule simulation lab for mobile and desktop learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
